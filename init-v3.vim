@@ -28,6 +28,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'preservim/nerdcommenter'
 Plug 'ervandew/supertab'
+Plug 'jiangmiao/auto-pairs'
 
 " === themes ============================================ "
 Plug 'pgdouyon/vim-yin-yang'
